@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/led_50x50.png</file>
+        <file>image/humi50x50.png</file>
+        <file>image/temp50x50.png</file>
+        <file>image/pir_50x50.png</file>
+    </qresource>
+</RCC>
